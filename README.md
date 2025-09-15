@@ -25,14 +25,14 @@ A continuación, se muestran capturas de pantalla del chatbot en funcionamiento 
 ---
 
 ### Vista 2
-
-<img width="526" height="763" alt="Chatbot - Vista 2" src="https://github.com/user-attachments/assets/302241a4-a7b1-44f5-aa30-25f5f20a7627" />
+<img width="497" height="742" alt="Chatbot - Vista 3" src="https://github.com/user-attachments/assets/cdec8340-c245-4967-9133-0c6d6446cd28" />
 
 ---
 
+
 ### Vista 3
 
-<img width="497" height="742" alt="Chatbot - Vista 3" src="https://github.com/user-attachments/assets/cdec8340-c245-4967-9133-0c6d6446cd28" />
+<img width="526" height="763" alt="Chatbot - Vista 2" src="https://github.com/user-attachments/assets/302241a4-a7b1-44f5-aa30-25f5f20a7627" />
 
 ---
 
