@@ -19,16 +19,16 @@ El proyecto consiste en un **chatbot inteligente** integrado al sitio de CM Valp
 A continuación, se muestran capturas de pantalla del chatbot en funcionamiento para que puedas apreciar su diseño y usabilidad:
 
 ### Vista 1
-
-<img width="552" height="783" alt="Chatbot - Vista 1" src="https://github.com/user-attachments/assets/50ae4b83-c433-4101-8a15-42ae29bc0930" />
-
----
-
-### Vista 2
 <img width="497" height="742" alt="Chatbot - Vista 3" src="https://github.com/user-attachments/assets/cdec8340-c245-4967-9133-0c6d6446cd28" />
 
 ---
 
+
+### Vista 2
+
+<img width="552" height="783" alt="Chatbot - Vista 1" src="https://github.com/user-attachments/assets/50ae4b83-c433-4101-8a15-42ae29bc0930" />
+
+---
 
 ### Vista 3
 
